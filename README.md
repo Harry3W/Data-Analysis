@@ -88,3 +88,8 @@
 - Python机器学习项目班  [百度云链接](https://pan.baidu.com/s/1NMF9aoMcj6-qD7QkIS5-qg)  提取码：c2j5
 - 人工智能就业全套视频  [百度云链接](https://pan.baidu.com/s/19iA7zCijevV3Flqq7tMo-A)  提取码：0nbw
 - Python3爬虫入门到精通课程视频  [百度云链接](https://pan.baidu.com/s/1A3XSi1HKgM3EqD4COojh0g)  提取码：5r8v
+
+
+如果有链接失效了，随时联系我噢，扫描下方的二维码关注公众号，后台留言失效的链接，我会在一天内更新相应的链接！
+![公众号二维码.jpg](https://upload-images.jianshu.io/upload_images/8316927-c95f8c323fac0b2d.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
