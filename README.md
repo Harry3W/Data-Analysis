@@ -1,6 +1,4 @@
 
-[TOC]
-
 # PDF书籍
 
 ## Python入门
