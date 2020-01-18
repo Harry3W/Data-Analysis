@@ -91,4 +91,4 @@
 
 
 如果有链接失效了，随时联系我噢，扫描下方的二维码关注公众号，后台留言失效的链接，我会在一天内更新相应的链接！
-![image](https://github.com/Harry3W/Data-Analysis/blob/master/%E5%85%AC%E4%BC%97%E5%8F%B7%E4%BA%8C%E7%BB%B4%E7%A0%81.jpg)
+![image](https://github.com/Harry3W/Data-Analysis/blob/master/picture.png)
